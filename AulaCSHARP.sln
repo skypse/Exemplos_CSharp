@@ -49,13 +49,19 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_22", "Exercicio_2
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_23", "Exercicio_23\Exercicio_23.csproj", "{4BD46563-CE0F-4E93-ADE6-BCEF8CEA048B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_24", "Exercicio_24\Exercicio_24.csproj", "{A0A6DB65-925A-4D8D-936E-C6D0FAA2FCD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_24", "Exercicio_24\Exercicio_24.csproj", "{A0A6DB65-925A-4D8D-936E-C6D0FAA2FCD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_25", "Exercicio_25\Exercicio_25.csproj", "{20FF0423-2ADE-49E8-9689-050715A2D8B9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_25", "Exercicio_25\Exercicio_25.csproj", "{20FF0423-2ADE-49E8-9689-050715A2D8B9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_26", "Exercicio_26\Exercicio_26.csproj", "{4577B7B2-5871-4713-B9D9-7C7CD6C80C99}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_26", "Exercicio_26\Exercicio_26.csproj", "{4577B7B2-5871-4713-B9D9-7C7CD6C80C99}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_27", "Exercicio_27\Exercicio_27.csproj", "{DCF52372-221D-4098-B652-FB3E5ABE65D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_27", "Exercicio_27\Exercicio_27.csproj", "{DCF52372-221D-4098-B652-FB3E5ABE65D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_28", "Exercicio_28\Exercicio_28.csproj", "{AF5C82E9-8782-4DE0-9600-23AE8FA0D635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_29", "Exercicio_29\Exercicio_29.csproj", "{9F07F139-2F9A-441B-8BA2-F0FBA321EABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_30", "Exercicio_30\Exercicio_30.csproj", "{6E3CB669-5B25-48EC-A0A6-A61B5C345323}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -171,6 +177,18 @@ Global
 		{DCF52372-221D-4098-B652-FB3E5ABE65D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCF52372-221D-4098-B652-FB3E5ABE65D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCF52372-221D-4098-B652-FB3E5ABE65D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF5C82E9-8782-4DE0-9600-23AE8FA0D635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF5C82E9-8782-4DE0-9600-23AE8FA0D635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF5C82E9-8782-4DE0-9600-23AE8FA0D635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF5C82E9-8782-4DE0-9600-23AE8FA0D635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F07F139-2F9A-441B-8BA2-F0FBA321EABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F07F139-2F9A-441B-8BA2-F0FBA321EABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F07F139-2F9A-441B-8BA2-F0FBA321EABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F07F139-2F9A-441B-8BA2-F0FBA321EABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E3CB669-5B25-48EC-A0A6-A61B5C345323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E3CB669-5B25-48EC-A0A6-A61B5C345323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E3CB669-5B25-48EC-A0A6-A61B5C345323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E3CB669-5B25-48EC-A0A6-A61B5C345323}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
