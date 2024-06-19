@@ -109,7 +109,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_52", "Exercicio_5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_53", "Exercicio_53\Exercicio_53.csproj", "{74D1DC08-55AE-422C-83C1-D01657D2140A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_54", "Exercicio_54\Exercicio_54.csproj", "{5289052E-FF1F-4FFC-BCCE-B14A6D176586}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_54", "Exercicio_54\Exercicio_54.csproj", "{5289052E-FF1F-4FFC-BCCE-B14A6D176586}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_55", "Exercicio_55\Exercicio_55.csproj", "{0F50B98B-5C36-4B1A-BB37-21E7A64CA68B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_56", "Exercicio_56\Exercicio_56.csproj", "{B14768EA-B6F6-40A2-8562-59EC321CE231}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +337,14 @@ Global
 		{5289052E-FF1F-4FFC-BCCE-B14A6D176586}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5289052E-FF1F-4FFC-BCCE-B14A6D176586}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5289052E-FF1F-4FFC-BCCE-B14A6D176586}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F50B98B-5C36-4B1A-BB37-21E7A64CA68B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F50B98B-5C36-4B1A-BB37-21E7A64CA68B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F50B98B-5C36-4B1A-BB37-21E7A64CA68B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F50B98B-5C36-4B1A-BB37-21E7A64CA68B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B14768EA-B6F6-40A2-8562-59EC321CE231}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B14768EA-B6F6-40A2-8562-59EC321CE231}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B14768EA-B6F6-40A2-8562-59EC321CE231}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B14768EA-B6F6-40A2-8562-59EC321CE231}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
