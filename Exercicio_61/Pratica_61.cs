@@ -14,15 +14,15 @@ namespace Exercicio_61
             NomePlayer("Isaac", 9);
         }
 
-        static void NomePlayer(string nomePlayer = "Guilherme Freitas", int blocoDeTerra = 1284172835)
+        static void NomePlayer(string nomePlayer = "Guilherme Freitas", int itens = 1284172835)
         {
-            int numeroIten = NumeroIten(blocoDeTerra);
+            int numeroIten = NumeroIten(itens);
             Console.WriteLine($"{nomePlayer} possui {numeroIten} itens");
         }
 
-        static int NumeroIten(int blocoDeTerra)
+        static int NumeroIten(int itens)
         {
-            return blocoDeTerra;
+            return itens;
         }
     }
 }
