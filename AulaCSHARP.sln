@@ -111,9 +111,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_53", "Exercicio_5
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_54", "Exercicio_54\Exercicio_54.csproj", "{5289052E-FF1F-4FFC-BCCE-B14A6D176586}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_55", "Exercicio_55\Exercicio_55.csproj", "{0F50B98B-5C36-4B1A-BB37-21E7A64CA68B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_55", "Exercicio_55\Exercicio_55.csproj", "{0F50B98B-5C36-4B1A-BB37-21E7A64CA68B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_56", "Exercicio_56\Exercicio_56.csproj", "{B14768EA-B6F6-40A2-8562-59EC321CE231}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exercicio_56", "Exercicio_56\Exercicio_56.csproj", "{B14768EA-B6F6-40A2-8562-59EC321CE231}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_57", "Exercicio_57\Exercicio_57.csproj", "{82090728-BBA3-4EE9-8D59-92A0A91EFD4E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercicio_58", "Exercicio_58\Exercicio_58.csproj", "{DB4A9269-ED54-4282-B297-EEB9907AABFA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -345,6 +349,14 @@ Global
 		{B14768EA-B6F6-40A2-8562-59EC321CE231}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B14768EA-B6F6-40A2-8562-59EC321CE231}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B14768EA-B6F6-40A2-8562-59EC321CE231}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82090728-BBA3-4EE9-8D59-92A0A91EFD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82090728-BBA3-4EE9-8D59-92A0A91EFD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82090728-BBA3-4EE9-8D59-92A0A91EFD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82090728-BBA3-4EE9-8D59-92A0A91EFD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DB4A9269-ED54-4282-B297-EEB9907AABFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB4A9269-ED54-4282-B297-EEB9907AABFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB4A9269-ED54-4282-B297-EEB9907AABFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB4A9269-ED54-4282-B297-EEB9907AABFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
