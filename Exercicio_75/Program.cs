@@ -9,6 +9,7 @@ namespace Exercicio_75
 {
     class Program
     {
+        // sem construtor
         public static void Main(string[] args)
         {
             Aluno Freitas = new Aluno();
